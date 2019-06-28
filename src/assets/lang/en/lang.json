@@ -1,0 +1,4 @@
+{
+	"Loading all of your translation files at once is overkill and unnecessary.": "Loading all of your translation files at once is overkill and unnecessary.",
+	"Lazy loading or asynchronously loading the translation files is really easy when using Webpack.": "Lazy loading or asynchronously loading the translation files is really easy when using Webpack."
+}

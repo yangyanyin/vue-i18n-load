@@ -1,0 +1,4 @@
+{
+	"Loading all of your translation files at once is overkill and unnecessary.": "一次加载所有翻译文件是过度和不必要的。",
+	"Lazy loading or asynchronously loading the translation files is really easy when using Webpack.": "使用 Webpack 时，延迟加载或异步加载转换文件非常简单。"
+}
